@@ -1,4 +1,15 @@
-D 'DEA': Data envelopment analysis
+D 'cme': Generalized linear models with covariate measurement error Use cme With STATA 19
 D
-F dea.ado
-F dea.sthlp
+F cme.ado
+F cme.hlp
+F eq_g.hlp
+F gllam_ll.ado
+F gllamm.ado
+F gllamm.hlp
+F gllapred.ado
+F gllapred.hlp
+F gllarob.ado
+F gllas_yu.ado
+F gllasim.ado
+F gllasim.hlp
+F remcor.ado
